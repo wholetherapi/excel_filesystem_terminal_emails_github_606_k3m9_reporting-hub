@@ -1,0 +1,41 @@
+{
+  "fund": "Tidewater Resilience Consortium",
+  "fiscal_year": "FY2026",
+  "reporting_period": "2026-Q3",
+  "funder_liaison": "james.thomas30@mcp.com",
+  "instructions": "project_id, display_name, manuscript_title and venue are authoritative for the quarterly register. repository is the canonical GitHub repository for the project's research code.",
+  "projects": [
+    {
+      "project_id": "storm-surge-forecasting",
+      "display_name": "Storm Surge Forecasting Engine",
+      "manuscript_title": "Data-Driven Storm Surge Forecasting for Estuary Cities",
+      "venue": "Coastal Hazards Journal, 2026",
+      "manuscript_status": "Accepted 2026-09-12",
+      "repository": "wholetherapi/excel_filesystem_terminal_emails_github_606_k3m9_storm-surge-forecasting"
+    },
+    {
+      "project_id": "wetland-buffer-mapping",
+      "display_name": "Wetland Buffer Mapping",
+      "manuscript_title": "Mapping Riparian Buffer Integrity from Multispectral Imagery",
+      "venue": "Remote Sensing in Coastal Zones, 2026",
+      "manuscript_status": "Accepted 2026-09-12",
+      "repository": "wholetherapi/excel_filesystem_terminal_emails_github_606_k3m9_wetland-buffer-mapping"
+    },
+    {
+      "project_id": "levee-sensor-analytics",
+      "display_name": "Levee Sensor Analytics",
+      "manuscript_title": "Continuous Levee Monitoring with Low-Power Sensor Meshes",
+      "venue": "Journal of Infrastructure Sensing, 2026",
+      "manuscript_status": "Accepted 2026-09-12",
+      "repository": "wholetherapi/excel_filesystem_terminal_emails_github_606_k3m9_levee-sensor-analytics"
+    },
+    {
+      "project_id": "sediment-transport-model",
+      "display_name": "Sediment Transport Model",
+      "manuscript_title": "Coupled Sediment Transport Modelling for Tidal Restoration Sites",
+      "venue": "Estuarine Engineering Advances, 2026",
+      "manuscript_status": "Accepted 2026-10-30",
+      "repository": "wholetherapi/excel_filesystem_terminal_emails_github_606_k3m9_sediment-transport-model"
+    }
+  ]
+}
