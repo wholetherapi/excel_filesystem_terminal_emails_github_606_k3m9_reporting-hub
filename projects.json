@@ -3,39 +3,44 @@
   "fiscal_year": "FY2026",
   "reporting_period": "2026-Q3",
   "funder_liaison": "james.thomas30@mcp.com",
-  "instructions": "project_id, display_name, manuscript_title and venue are authoritative for the quarterly register. repository is the canonical GitHub repository for the project's research code.",
+  "repository": "wholetherapi/excel_filesystem_terminal_emails_github_606_k3m9_reporting-hub",
+  "instructions": "project_id, display_name, manuscript_title and venue are authoritative for the quarterly register. Each project's research code lives in this reporting hub under the code_path given for that project.",
   "projects": [
     {
-      "project_id": "storm-surge-forecasting",
-      "display_name": "Storm Surge Forecasting Engine",
-      "manuscript_title": "Data-Driven Storm Surge Forecasting for Estuary Cities",
-      "venue": "Coastal Hazards Journal, 2026",
+      "project_id": "saltmarsh-acoustic-survey",
+      "display_name": "Saltmarsh Acoustic Survey",
+      "manuscript_title": "Passive Acoustic Surveys of Saltmarsh Bird Communities",
+      "venue": "Estuarine Ecology Letters, 2026",
       "manuscript_status": "Accepted 2026-09-12",
-      "repository": "wholetherapi/excel_filesystem_terminal_emails_github_606_k3m9_storm-surge-forecasting"
+      "code_path": "projects/saltmarsh-acoustic-survey",
+      "repository": "wholetherapi/excel_filesystem_terminal_emails_github_606_k3m9_reporting-hub"
     },
     {
-      "project_id": "wetland-buffer-mapping",
-      "display_name": "Wetland Buffer Mapping",
-      "manuscript_title": "Mapping Riparian Buffer Integrity from Multispectral Imagery",
-      "venue": "Remote Sensing in Coastal Zones, 2026",
+      "project_id": "mangrove-canopy-alerting",
+      "display_name": "Mangrove Canopy Alerting",
+      "manuscript_title": "Near-Real-Time Mangrove Canopy Loss Detection from Satellite Imagery",
+      "venue": "Tropical Remote Sensing, 2026",
       "manuscript_status": "Accepted 2026-09-12",
-      "repository": "wholetherapi/excel_filesystem_terminal_emails_github_606_k3m9_wetland-buffer-mapping"
+      "code_path": "projects/mangrove-canopy-alerting",
+      "repository": "wholetherapi/excel_filesystem_terminal_emails_github_606_k3m9_reporting-hub"
     },
     {
-      "project_id": "levee-sensor-analytics",
-      "display_name": "Levee Sensor Analytics",
-      "manuscript_title": "Continuous Levee Monitoring with Low-Power Sensor Meshes",
-      "venue": "Journal of Infrastructure Sensing, 2026",
+      "project_id": "groundwater-salinity-risk",
+      "display_name": "Groundwater Salinity Risk",
+      "manuscript_title": "Predicting Saltwater Intrusion in Coastal Aquifers with Sparse Monitoring",
+      "venue": "Hydrology & Coastal Systems, 2026",
       "manuscript_status": "Accepted 2026-09-12",
-      "repository": "wholetherapi/excel_filesystem_terminal_emails_github_606_k3m9_levee-sensor-analytics"
+      "code_path": "projects/groundwater-salinity-risk",
+      "repository": "wholetherapi/excel_filesystem_terminal_emails_github_606_k3m9_reporting-hub"
     },
     {
-      "project_id": "sediment-transport-model",
-      "display_name": "Sediment Transport Model",
-      "manuscript_title": "Coupled Sediment Transport Modelling for Tidal Restoration Sites",
-      "venue": "Estuarine Engineering Advances, 2026",
+      "project_id": "dune-blowout-monitoring",
+      "display_name": "Dune Blowout Monitoring",
+      "manuscript_title": "Structure-from-Motion Monitoring of Coastal Dune Blowout Dynamics",
+      "venue": "Aeolian Research Frontiers, 2026",
       "manuscript_status": "Accepted 2026-10-30",
-      "repository": "wholetherapi/excel_filesystem_terminal_emails_github_606_k3m9_sediment-transport-model"
+      "code_path": "projects/dune-blowout-monitoring",
+      "repository": "wholetherapi/excel_filesystem_terminal_emails_github_606_k3m9_reporting-hub"
     }
   ]
 }
