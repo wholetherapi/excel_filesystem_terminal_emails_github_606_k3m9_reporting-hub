@@ -10,7 +10,7 @@
 
 ## Repository Status
 
-**🚧 To be released**
+**To be released**
 This folder will host the implementation, experiment configuration and
 evaluation code for the manuscript above. The code is under final review and
 will be published after the camera-ready deadline.
