@@ -1,0 +1,21 @@
+[
+  {
+    "project_id": "saltmarsh-acoustic-survey",
+    "manuscript_title": "Passive Acoustic Surveys of Saltmarsh Bird Communities",
+    "code_url": "https://github.com/wholetherapi/excel_filesystem_terminal_emails_github_606_k3m9_reporting-hub/tree/main/projects/saltmarsh-acoustic-survey"
+  },
+  {
+    "project_id": "mangrove-canopy-alerting",
+    "manuscript_title": "Near-Real-Time Mangrove Canopy Loss Detection from Satellite Imagery",
+    "code_url": "https://github.com/wholetherapi/excel_filesystem_terminal_emails_github_606_k3m9_reporting-hub/tree/main/projects/mangrove-canopy-alerting"
+  },
+  {
+    "project_id": "groundwater-salinity-risk",
+    "manuscript_title": "Predicting Saltwater Intrusion in Coastal Aquifers with Sparse Monitoring",
+    "code_url": "https://github.com/wholetherapi/excel_filesystem_terminal_emails_github_606_k3m9_reporting-hub/tree/main/projects/groundwater-salinity-risk"
+  },
+  {
+    "project_id": "dune-blowout-monitoring",
+    "manuscript_title": "Structure-from-Motion Monitoring of Coastal Dune Blowout Dynamics"
+  }
+]
